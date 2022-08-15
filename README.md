@@ -1,2 +1,4 @@
-# Calculator-Web-App
+# A Modern Calculator Web App
 A Javascript Calculator with Modern Design.
+
+Made Using Javascript, CSS and HTML.
